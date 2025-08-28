@@ -63,6 +63,18 @@ arpspoof -i eth0 -t <victim_IP> <gateway_IP>
 ```
 ## OUTPUT:
 
+## arp -a
+
+<img width="1874" height="1009" alt="image" src="https://github.com/user-attachments/assets/dc4937ed-60b2-43c3-968b-4bfb95d2f81c" />
+
+## arpspoof -i eth0 -t <victim_IP> <gateway_IP>
+
+<img width="719" height="704" alt="image" src="https://github.com/user-attachments/assets/7e9fffba-d9bb-4012-bf3d-ad467ca1d973" />
+
+## DSNIFF
+
+<img width="707" height="133" alt="image" src="https://github.com/user-attachments/assets/354047df-7ce4-4489-a00a-d44d41d7052f" />
+
 
 ## RESULT:
 The kali linux tools for ARP Attack and Network Sniffing were identified successfully
